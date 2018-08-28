@@ -6,5 +6,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="bootstrap4-intellij-2.1.2" level="project" />
+    <orderEntry type="library" name="bootstrap3" level="project" />
   </component>
 </module>
